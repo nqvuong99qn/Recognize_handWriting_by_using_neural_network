@@ -1,0 +1,33 @@
+
+
+	seductive		:attractive
+	progress stalled	: stop, not continue
+	devastated		: damage,
+	apparent		: easy to see, to understand
+	peek inside		: look inside
+	percentage		: scale percent
+	accuracy		: ability correct		
+	scene			: place where something happens
+	recipe			: formulation
+	refinements 		: a small change to something  that improves it
+	annual leave on		: have a day off every year
+	coordinate		: connect something to do something
+	puzzy	(puzzled)	: difficult to understand
+	sketch			: a picture is drawn quickly and doesn't have many details
+
+
+	some notes:
+
+	1 class simple neural network include of three 3 main function:
+
+			__init__ : set matrix (input_hidden), matrix (hidden_output), number of nodes (input, hidden, output)
+
+			 train(inputs, targets): 
+
+
+
+
+
+	
+
+	
